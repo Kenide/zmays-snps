@@ -6,3 +6,4 @@ test
 
 We downloaded refgen3 on 2020-12-31
 Maize reference genome version: refgen, dowloaded 2020-12-31 from link to dir
+//nAdapter file: adapters.fa
